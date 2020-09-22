@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there // 안녕하세요 👋
 
 
 🔭 I’m working on exciting [projects](https://www.popsocial.app) to connect college students! 
