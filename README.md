@@ -9,9 +9,7 @@
 
 💬 Ask me about Aviation🛫, Real estate🏡 and Startups!💡 
 
-😄 Pronouns: he, him, his
-
-📫 How to reach me: [email](/rickkim95@gmail.com)
+😊 How to reach me: [email](/rickkim95@gmail.com)
 
 ⚡ Fun fact: I love dumplings so much that I've named my car mandoo (Korean for Dumplings)
 
