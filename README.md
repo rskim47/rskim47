@@ -7,11 +7,11 @@
 
 🌱 I want to learn more about Apache Spark, TensorFlow.js and React-Native. 
 
-- 💬 Ask me about aviation🛫, real estate🏡 and startups!💡 
+💬 Ask me about aviation🛫, real estate🏡 and startups!💡 
 
-- 😄 Pronouns: he, him, his
+😄 Pronouns: he, him, his
 
-- 📫 How to reach me: [email](/rickkim95@gmail.com)
+📫 How to reach me: [email](/rickkim95@gmail.com)
 
-- ⚡ Fun fact: I love dumplings so much that I've named my car mandoo (Korean for Dumplings)
+⚡ Fun fact: I love dumplings so much that I've named my car mandoo (Korean for Dumplings)
 
