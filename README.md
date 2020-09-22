@@ -7,7 +7,7 @@
 
 🌱 I want to learn more about Apache Spark, TensorFlow and React-Native. 
 
-💬 Ask me about Aviation🛫 Real estate🏡 and Startups!💡 
+💬 Ask me about Aviation 🛫 Real estate 🏡 and Startups!💡 
 
 😊 How to reach me: [rickkim95@gmail.com](/rickkim95@gmail.com)
 
