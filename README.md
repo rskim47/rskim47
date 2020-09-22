@@ -11,5 +11,5 @@
 
 😊 How to reach me: <rickkim95@gmail.com>
 
-⚡ Fun fact: I love dumplings so much that I've named my car mandoo (Korean for Dumplings)
+⚡ Fun fact: I joined college as an architecture major, graduated as a computational engineer. 
 
