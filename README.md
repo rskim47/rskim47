@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🔭 I’m working on exciting projects to connect college students! 
+🔭 I’m working on exciting [projects](/popsocial.app) to connect college students! 
 
 🧠 I'm great at problem-solving using Node.js, MongoDB and TypeScript. 
 
