@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-🔭 I’m currently working on some exciting projects to connect college students! 
+🔭 I’m working on exciting projects to connect college students! 
 
-🧠 I'm great at proble solving using Node.js, MongoDB and TypeScript. 
+🧠 I'm great at problem-solving using Node.js, MongoDB and TypeScript. 
 
-🌱 I want to learn more about Apache Spark, TensorFlow.js and React-Native. 
+🌱 I want to learn more about Apache Spark, TensorFlow and React-Native. 
 
-💬 Ask me about aviation🛫, real estate🏡 and startups!💡 
+💬 Ask me about Aviation🛫, Real estate🏡 and Startups!💡 
 
 😄 Pronouns: he, him, his
 
