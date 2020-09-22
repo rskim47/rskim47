@@ -9,7 +9,7 @@
 
 💬 Ask me about Aviation 🛫 Real estate 🏡 and Startups!💡 
 
-😊 How to reach me: [rickkim95@gmail.com](rickkim95@gmail.com)
+😊 How to reach me: <rickkim95@gmail.com>
 
 ⚡ Fun fact: I love dumplings so much that I've named my car mandoo (Korean for Dumplings)
 
