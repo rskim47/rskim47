@@ -1,7 +1,7 @@
 ### Hi there // 안녕하세요 👋
 
 
-🔭  I’m working on exciting [projects](https://www.popsocial.app) to connect college students! 
+🔭  I work on exciting [projects](https://www.popsocial.app) to connect college students! 
 
 🧠  I'm great at problem-solving using Node.js, MongoDB and TypeScript. 
 
