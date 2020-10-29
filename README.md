@@ -3,7 +3,7 @@
 
 🔭  I work on exciting [projects](https://www.popsocial.app) to connect college students! 
 
-🧠  I'm great at problem-solving using Node.js, MongoDB and TypeScript. 
+🧠  I'm great at problem-solving using Node.js, MongoDB and Python! 
 
 🌱  I want to learn more about Apache Spark, TensorFlow and React-Native. 
 
