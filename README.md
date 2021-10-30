@@ -9,7 +9,7 @@
 
 💬  Ask me about Aviation 🛫 Real estate 🏡 and Startups!💡 
 
-😊  How to reach me: <rickkim95@gmail.com>
+😊  How to reach me: <rickkim95@gmail.com>, [LinkedIn](https://www.linkedin.com/in/rskim47/)
 
 ⚡  Fun fact: I joined college as an architecture major, graduated as a computational engineer. 
 
